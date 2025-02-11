@@ -1,0 +1,1 @@
+{/* AssessmentChart component removed */}

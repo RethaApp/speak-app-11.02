@@ -1,0 +1,1 @@
+{/* ScoreCard component removed */}
